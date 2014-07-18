@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/src/main/assets" />
+        <source path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/src/main/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/src/release/assets" />
+        <source path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/src/release/assets" />
     </dataSet>
 
 </merger>

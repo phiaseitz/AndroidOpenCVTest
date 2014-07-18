@@ -2,9 +2,9 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/res" >
+        <source path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/res" >
             <file
-                path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/res/values/attrs.xml"
+                path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/res/values/attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="CameraBridgeViewBase" >
                     <attr
@@ -26,11 +26,11 @@
                 </declare-styleable>
             </file>
         </source>
-        <source path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/build/generated/res/rs/release" />
-        <source path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/build/generated/res/generated/release" />
+        <source path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/build/generated/res/rs/release" />
+        <source path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/build/generated/res/generated/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/Sophia/Documents/Code/Android/OpenCVInstalTest/libraries/opencv/src/release/res" />
+        <source path="/Users/Sophia/Documents/Code/Android/AndroidOpenCVTest/OpenCVInstalTest/libraries/opencv/src/release/res" />
     </dataSet>
 
 </merger>
